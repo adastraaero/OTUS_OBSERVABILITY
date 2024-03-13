@@ -21,7 +21,7 @@
 ### Решение:
 Устанавливаем CMS Wordpress с использованием MYSQL, Nginx, Php-fpm.
 
-![Image 1](HomeWork_1/Images/sc1.png)
+![Image 1](HomeWork_1/Images/sc2.png)
 
 Устанавливаем Prometheus и необходимые экспортеры.
 
@@ -29,6 +29,6 @@
 
 Настраиваем экспортеры и проверяем, через prometheus.
 
-![Image 2](HomeWork_1/Images/sc2.png)
+![Image 2](HomeWork_1/Images/sc1.png)
 
 </details>

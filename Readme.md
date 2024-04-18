@@ -32,3 +32,6 @@
 ![Image 2](HomeWork_1/Images/sc1.png)
 
 </details>
+
+
+## Домашнее задание 5
